@@ -69,17 +69,11 @@
 **Sales Trends Over Years:**
 - 📈 General increasing trend in video game sales across regions.
 
-**Top 5 Publishers:**
-- 🥇 Take-Two Interactive, Electronic Arts, Ubisoft, Bethesda Softworks, and Vivendi Games.
-
 **Most Played Games, Genres, and Publishers:**
 - 🎮 Terraria, Counter-Strike, Grand Theft Auto V lead in playtime.
 - 🕹 Action, Shooter, Role Playing are top played genres.
 - 🏢 Take-Two Interactive, 505 Games, Electronic Arts lead in published games.
 
-**Correlations:**
-- 📊 Higher-ranked games tend to have higher sales.
-- 📉 Weak negative correlation between Year and Rank.
 
 **Global Sales and Viewership:**
 - 🌐 Weak positive correlation between global sales and viewership.
@@ -87,3 +81,5 @@
 #### Conclusion 
 
 Based on the analysis, a weak positive correlation between global game sales and Steam viewership was found. However, this suggests that viewership alone doesn't significantly impact sales. Marketing, quality, pricing, and platform availability likely play more significant roles. 🚀
+
+[Kaggle - notebook link](https://www.kaggle.com/code/romanytawfeek/mastering-game-data-analysis-with-pyspark)
